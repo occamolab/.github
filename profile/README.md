@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://occamolab.org">
-    <img src="https://occamolab.org/logo-mark.png" alt="OccamoLab" width="180">
-  </a>
-</p>
-
 # OccamoLab
 
 A research group composing neural networks with known laws: small, exact, auditable models.
